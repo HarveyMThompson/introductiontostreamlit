@@ -1,0 +1,4 @@
+﻿,command,rating,is_widget
+2,st.time_input,3,true
+0,st.selectbox,4,true
+1,st.balloons,5,false
